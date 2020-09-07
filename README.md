@@ -5,3 +5,4 @@ A simple iOS Application demonstrating Core Data's Add, Fetch Features.
 ![](coredata.jpg)
 
 ## Workings
+![](Core data.gif)
